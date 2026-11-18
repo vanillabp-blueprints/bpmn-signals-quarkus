@@ -1,8 +1,8 @@
-package blueprint.workflowmodule.ratewatch;
+package blueprint.workflowmodule.loanapproval.ratewatch;
 
 import java.util.UUID;
 
-import blueprint.workflowmodule.ratewatch.api.RateWatchApi;
+import blueprint.workflowmodule.loanapproval.ratewatch.api.RateWatchApi;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import lombok.extern.slf4j.Slf4j;

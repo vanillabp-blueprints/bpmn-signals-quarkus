@@ -1,4 +1,4 @@
-package blueprint.workflowmodule.ratewatch.model;
+package blueprint.workflowmodule.loanapproval.ratewatch.model;
 
 import io.quarkus.hibernate.orm.panache.PanacheRepositoryBase;
 import jakarta.enterprise.context.ApplicationScoped;

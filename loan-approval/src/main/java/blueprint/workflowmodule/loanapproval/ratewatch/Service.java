@@ -1,10 +1,10 @@
-package blueprint.workflowmodule.ratewatch;
+package blueprint.workflowmodule.loanapproval.ratewatch;
 
 import java.time.LocalDateTime;
 import java.util.Optional;
 
-import blueprint.workflowmodule.ratewatch.model.Aggregate;
-import blueprint.workflowmodule.ratewatch.model.AggregateRepository;
+import blueprint.workflowmodule.loanapproval.ratewatch.model.Aggregate;
+import blueprint.workflowmodule.loanapproval.ratewatch.model.AggregateRepository;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
 import jakarta.transaction.Transactional;
